@@ -23,36 +23,6 @@
 
 API доступен публично, вы можете протестировать эндпоинты напрямую:
 
-### Получить специализации
-
-```bash
-curl https://apimed-lilac.vercel.app/api/specializations
-```
-
-**Пример ответа:**
-
-![Ответ API specializations](/public/api-specializations.png)
-
-### Получить врачей
-
-```bash
-curl https://apimed-lilac.vercel.app/api/doctors
-```
-
-**Пример ответа:**
-
-![Ответ API doctors](/public/api-doctors.png)
-
-### Получить записи
-
-```bash
-curl https://apimed-lilac.vercel.app/api/appointments
-```
-
-**Пример ответа:**
-
-![Ответ API appointments](/public/api-appointments.png)
-
 ## Основные возможности
 
 - Выбор медицинской специализации
