@@ -28,7 +28,7 @@ curl https://apimed-lilac.vercel.app/api/specializations
 
 **Пример ответа:**
 
-![Ответ API specializations](./api-specializations.png)
+![Ответ API specializations](/public/api-specializations.png)
 
 ### Получить врачей
 
@@ -38,7 +38,7 @@ curl https://apimed-lilac.vercel.app/api/doctors
 
 **Пример ответа:**
 
-![Ответ API doctors](/api-doctors.png)
+![Ответ API doctors](/public/api-doctors.png)
 
 ### Получить записи
 
