@@ -38,7 +38,7 @@ curl https://apimed-lilac.vercel.app/api/doctors
 
 **Пример ответа:**
 
-![Ответ API doctors](./api-doctors.png)
+![Ответ API doctors](/api-doctors.png)
 
 ### Получить записи
 
@@ -48,7 +48,7 @@ curl https://apimed-lilac.vercel.app/api/appointments
 
 **Пример ответа:**
 
-![Ответ API appointments](./api-appointments.png)
+![Ответ API appointments](/public/api-appointments.png)
 
 ## Основные возможности
 
