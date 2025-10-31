@@ -11,6 +11,8 @@
 Проект разделен на две части:
 
 - **Frontend** - React приложение с формой записи
+  ![внешний вид](/public/screen.png)
+
 - **Backend** - REST API на Vercel Serverless Functions с базой данных Vercel KV
 
 ## Ссылки
