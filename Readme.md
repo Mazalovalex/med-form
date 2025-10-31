@@ -15,32 +15,40 @@
 
 ## Ссылки
 
-- **Демо приложения:** [ссылка-на-vercel.app](https://med-form-pi.vercel.app/)
+- **Демо приложения:** [med-form-pi.vercel.app](https://med-form-pi.vercel.app/)
 - **API:** https://apimed-lilac.vercel.app/api
 
 API доступен публично, вы можете протестировать эндпоинты напрямую:
 
+### Получить специализации
+
 ```bash
-# Получить специализации
 curl https://apimed-lilac.vercel.app/api/specializations
-
-![JSON api/specializations](./api-specializations.png)
-
-
-# Получить врачей
-curl https://apimed-lilac.vercel.app/api/doctors
-
-![JSON api/doctors](./api-doctors.png)
-
-
-# Получить записи
-curl https://apimed-lilac.vercel.app/api/appointments
-
-![JSON api/appointments](./api-appointments.png)
-
-
-
 ```
+
+**Пример ответа:**
+
+![Ответ API specializations](./api-specializations.png)
+
+### Получить врачей
+
+```bash
+curl https://apimed-lilac.vercel.app/api/doctors
+```
+
+**Пример ответа:**
+
+![Ответ API doctors](./api-doctors.png)
+
+### Получить записи
+
+```bash
+curl https://apimed-lilac.vercel.app/api/appointments
+```
+
+**Пример ответа:**
+
+![Ответ API appointments](./api-appointments.png)
 
 ## Основные возможности
 
